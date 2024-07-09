@@ -1,0 +1,5 @@
+patch-ruRU-4.mpq
+patch-ruRU-b.mpq
+patch-ruRU-c.mpq
+patch-ruRU-e.mpq
+patch-ruRU-f.mpq
